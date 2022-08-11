@@ -1,7 +1,7 @@
 {
-	"name": "<name>",
-	"version": "<version>",
-	"description": "<desc>",
+	"name": "@frc1711/raptorbot",
+	"version": "0.1.0",
+	"description": "A robotic dinosaur that runs amok in the Raptors Discord server.",
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"scripts": {
@@ -10,15 +10,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/<github_org>/<base_name>.git"
+		"url": "git+https://github.com/frc1711/raptorbot.git"
 	},
 	"keywords": [],
 	"author": "Trevor Sears <trevor@trevorsears.com> (https://trevorsears.com/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/<github_org>/<base_name>/issues"
+		"url": "https://github.com/frc1711/raptorbot/issues"
 	},
-	"homepage": "https://github.com/<github_org>/<base_name>#readme",
+	"homepage": "https://github.com/frc1711/raptorbot#readme",
 	"devDependencies": {
 		"@t99/eslint-config": "latest",
 		"@types/jest": "latest",
